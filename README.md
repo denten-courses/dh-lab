@@ -84,7 +84,7 @@ Commons, by David Barry.
 
 **Explore**: http://publicknowledge.org/
 
-Lab: Ethics charter. Zotero signup. 6pm-Computational Thinking w/ Jeannette Wang of Microsoft Research (Lecture Hall, Columbia University Graduate School of Journalism)
+**Lab**: Ethics charter. Zotero signup. 6pm-Computational Thinking w/ Jeannette Wang of Microsoft Research (Lecture Hall, Columbia University Graduate School of Journalism)
 
 ### Week 4: Open Access and Open Source
 
