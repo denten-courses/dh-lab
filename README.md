@@ -5,7 +5,7 @@ instructor: "Dennis Tenen"
 
 ---
 
-**Where?** First meeting at Hamilton 607. Subsequent meetings at the Butler Studio.
+**Where?** First meeting at Hamilton 607. Subsequent meetings at the Butler Studio.  
 **When?** Tuesdays 4-6pm + Lab 6:30-8pm
 
 Every year the Digital Humanities Lab convenes to advance research in
