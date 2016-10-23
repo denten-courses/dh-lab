@@ -1,12 +1,12 @@
 ---
-date: Spring 2014
-title: "ENGL 3915/6915 Digital Humanities Lab: Illicit Knowledge"
+date: Spring 2016
+title: "ENGL 3915 Digital Humanities Lab: Interpretive Communities"
 instructor: "Dennis Tenen"
 
 ---
 
-**Where?** First meeting at Hamilton 607. Subsequent meetings at the Butler Studio.  
-**When?** Tuesdays 4-6pm + Lab 6:30-8pm
+**Where?** 
+**When?** 
 
 Every year the Digital Humanities Lab convenes to advance research in
 computational culture studies understood both as the study of computational
@@ -22,12 +22,7 @@ methodological toolkit (aka, learn to code), and second, to examine the
 critical literature on a selected topic related to texts, information
 technology, and online communities. 
 
-The theme for the spring of 2014 is illicit knowledge. In working with several
-large datasets related to information piracy we will explore the ethics of
-stealing and sharing, the history and the future of censorship, the
-infrastructure and the social dynamics of underground library archives, laws
-protecting and punishing whistleblowers, the difference between remix and
-plagiarism, copyright regimes and free culture.
+The theme for the spring of 2016 is interpretive communities.
 
 ## What are the Digital Humanities?
 
